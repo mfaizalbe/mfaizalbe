@@ -1,5 +1,5 @@
 ## Hi there 👋 
-<samp>This space is where I track my hands-on journey into Cloud, Automation, AI and DevOps ☁️⚙️ I’m building skills in infrastructure management, deployment, and scripting, experimenting with new tools, and solving practical challenges along the way 💻🔧 I aim to bridge traditional IT experience with modern cloud platforms, creating solutions that are reliable, efficient, and scalable. Here, I share labs, scripts, and projects from my learning journey — always iterating, always improving 
+<samp>This space is where I track my hands-on journey into Cloud, Automation, AI and DevOps ☁️⚙️ I’m building skills in infrastructure management, deployment, and scripting, experimenting with new tools, and solving practical challenges along the way 💻🔧 I aim to bridge traditional IT experience with modern cloud platforms, creating solutions that are reliable, efficient, and scalable. Here, I share labs, scripts, and projects from my learning journey — always iterating, always improving ✨
 </samp>
 
 <!--
