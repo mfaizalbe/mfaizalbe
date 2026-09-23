@@ -2,6 +2,10 @@
 <samp>This space 🚀 is where I track my hands-on journey into Cloud, Automation, AI, DevOps and Data Analytics ☁️⚙️ I’m building skills in infrastructure management, deployment, and scripting, experimenting with new tools, and solving practical challenges along the way 💻🔧 I aim to bridge traditional IT experience with modern cloud platforms, creating solutions that are reliable, efficient, and scalable. Here, I share labs, scripts, and projects from my learning journey - always iterating, always improving ✨
 </samp>
 
+<div align="center"> <h3>🚀 Apps Built & Live in Production</h3> </div>
+
+<p align="center"> <a href="https://play.google.com/store/apps/details?id=sg.shortcut.twa"> <img src="https://img.shields.io/badge/Google%20Play-Shortcut%20SG-34A853?logo=google-play&logoColor=white" alt="Shortcut on Google Play"/> </a></p> 
+
 <div align="center">
   <h3>🛠️ Tools & Technologies</h3>
 </div>
