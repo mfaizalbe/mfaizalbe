@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=white" alt="HTML"/>
 
   <!-- Data / AI / ML -->
+  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/-R-276DC3?&logo=r&logoColor=white" alt="R Programming"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/-RStudio-75AADB?&logo=rstudio&logoColor=white" alt="RStudio"/>
