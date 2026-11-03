@@ -4,7 +4,12 @@
 
 <div align="center"> <h3>🚀 Apps Built & Live in Production</h3> </div>
 
-<p align="center"> <a href="https://play.google.com/store/apps/details?id=sg.shortcut.twa"> <img src="https://img.shields.io/badge/Google%20Play-Shortcut%20SG-34A853?logo=google-play&logoColor=white" alt="Shortcut on Google Play"/> </a></p> 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=sg.shortcut.twa"><img src="https://img.shields.io/badge/Google%20Play-Shortcut%20SG-34A853?logo=google-play&logoColor=white" alt="Shortcut on Google Play"/></a>
+  <a href="https://shortcut-sg.vercel.app/"><img src="https://img.shields.io/badge/iOS%20Web%20App-Shortcut%20SG-000000?logo=apple&logoColor=white" alt="Shortcut web app for iOS"/></a>
+</p>
+
+<p align="center"><sub>On iPhone: open the link in Safari, tap Share, then Add to Home Screen</sub></p>
 
 <div align="center">
   <h3>🛠️ Tools & Technologies</h3>
