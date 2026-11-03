@@ -9,8 +9,6 @@
   <a href="https://shortcut-sg.vercel.app/"><img src="https://img.shields.io/badge/iOS%20Web%20App-Shortcut%20SG-000000?logo=apple&logoColor=white" alt="Shortcut web app for iOS"/></a>
 </p>
 
-<p align="center"><sub>On iPhone: open the link in Safari, tap Share, then Add to Home Screen</sub></p>
-
 <div align="center">
   <h3>🛠️ Tools & Technologies</h3>
 </div>
